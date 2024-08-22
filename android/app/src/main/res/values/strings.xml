@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">geopostapp</string>
+    <string name="title_activity_main">geopostapp</string>
+    <string name="package_name">ionic.geopostapp</string>
+    <string name="custom_url_scheme">ionic.geopostapp</string>
+</resources>
